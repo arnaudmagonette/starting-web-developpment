@@ -107,6 +107,15 @@ section {
     margin: 20px auto 50px;
 }
 
+.movie > h2 strong{
+    font-weight: 400;
+    background-color: #dd5555;
+}
+
+.movie > h2 strong:hover{
+    background-color: #fff;
+}
+
 .movie article{
     display: grid;
     grid-template-columns: 30% 70%;
